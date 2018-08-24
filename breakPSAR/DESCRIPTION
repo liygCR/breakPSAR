@@ -5,7 +5,7 @@ Version: 0.1.0
 Author: Yaguang Li [aut, cre],
         Baisuo Jin [aut]
 Maintainer: Yaguang Li <liyg@mail.ustc.edu.cn>
-Depends: R (>= 3.5.0), plus
+Depends: R (>= 3.3.0), plus
 Suggests: MASS
 Description: A novel and fast methodology for simultaneous multiple structural break
        estimation and variable selection for piecewise stationary autoregressive (PSAR)
