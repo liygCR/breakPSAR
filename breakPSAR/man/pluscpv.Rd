@@ -120,4 +120,3 @@ scad.cp <- pluscpv(Y, "scad", 4, 0.01)
 scad.cp  #result of ASCAD
 
 }
-
