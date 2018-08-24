@@ -1,5 +1,5 @@
 # breakPSAR
-R package for Fast Multiple Structural Break Estimation for Nonstationary Time Series Models
+R package for A novel and Fast Multiple Structural Break Estimation for Nonstationary Time Series Models
 
 ## Installation
 devtools::install_github("liygCR/breakPSAR/breakPSAR")
