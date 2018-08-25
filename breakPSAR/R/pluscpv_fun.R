@@ -89,7 +89,7 @@ pluscpv <- function(Y, method = c("mcp", "scad"), p, lam.d) {
 
 
 
-  library("plus")  #call the plus package build in R by
+  # library("plus")  #call the plus package build in R by
   # ZHANG(2010, Nearly unbiased variable selection under minimax concave
   # penalty. The Annals of Statistics 38(2), 894-942)
   n = length(Y)

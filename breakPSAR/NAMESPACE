@@ -2,3 +2,4 @@
 
 export(pluscpv)
 import(plus)
+importFrom("stats", "coef")
