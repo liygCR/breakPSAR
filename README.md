@@ -3,6 +3,7 @@
 
 ## Installation
 ```r
+# install.packages("devtools")
 devtools::install_github("liygCR/breakPSAR/breakPSAR")
 ```
 
